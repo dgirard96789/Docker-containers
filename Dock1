@@ -59,7 +59,7 @@ pip install pyopenssl==0.13.1 && \
 #mv /root/sickbeard.sh /etc/service/sickbeard/run && \
 #chmod +x /etc/service/sickbeard/run
 
-EXPOSE 8081
+#EXPOSE 8081
 
 # SickBeard Configuration
 #VOLUME /config
